@@ -6,5 +6,8 @@
     <string name="action_settings">Settings</string>
     <string name="title_activity_game">GameActivity</string>
     <string name="title_activity_welcome">屠鸡</string>
+    <string name="title_activity_cg">CGActivity</string>
+    <string name="title_activity_ready">ReadyActivity</string>
+    <string name="title_activity_extra">ExtraActivity</string>
 
 </resources>
