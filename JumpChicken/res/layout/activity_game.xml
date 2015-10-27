@@ -9,12 +9,5 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.example.jumpchicken.GameActivity" >
 
-    <ImageView
-        android:id="@+id/imageView1"
-        android:layout_width="103dp"
-        android:layout_height="100dp"
-        android:layout_x="93dp"
-        android:layout_y="307dp"
-        android:src="@drawable/chicken" />
 
 </AbsoluteLayout>

@@ -8,7 +8,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.example.UI.ExtraActivity" >
+    tools:context="tujijiemian.ExtraActivity" >
 
    <!--  <ImageView
         android1:id="@+id/iv"
@@ -147,13 +147,5 @@
         android1:layout_y="32dp"
         android1:padding="0px"
         android1:src="@drawable/black5" />
-
-    <ImageButton
-        android1:id="@+id/imageButton1"
-        android1:layout_width="wrap_content"
-        android1:layout_height="wrap_content"
-        android1:layout_x="22dp"
-        android1:layout_y="16dp"
-        android1:src="@android:drawable/ic_lock_idle_lock" />
 
 </AbsoluteLayout>

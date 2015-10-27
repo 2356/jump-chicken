@@ -14,7 +14,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.example.UI.MainActivity"
+            android:name="tujijiemian.MainActivity"
             android:label="@string/app_name" >
         </activity>
         <activity
@@ -22,7 +22,7 @@
             android:label="@string/title_activity_game" >
         </activity>
         <activity
-            android:name="com.example.UI.WelcomeActivity"
+            android:name="tujijiemian.WelcomeActivity"
             android:label="@string/title_activity_welcome" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -31,15 +31,15 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.UI.CGActivity"
+            android:name="tujijiemian.CGActivity"
             android:label="@string/title_activity_cg" >
         </activity>
         <activity
-            android:name="com.example.UI.ReadyActivity"
+            android:name="tujijiemian.ReadyActivity"
             android:label="@string/title_activity_ready" >
         </activity>
         <activity
-            android:name="com.example.UI.ExtraActivity"
+            android:name="tujijiemian.ExtraActivity"
             android:label="@string/title_activity_extra" 
             android:screenOrientation = "landscape">
         </activity>
